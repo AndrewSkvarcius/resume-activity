@@ -1,5 +1,59 @@
-/* remove this code and add your own! */
-.greeting {
-    color: green;
-    font-size: 30px;
+ h1{
+    font-family:'Permanent Marker' ;
+    background-color: white;
+    font-size: 40px;
+
+    text-align: center;
+    border-radius: 15px 15px;
   }
+  img{
+   border: 15px solid;
+   border-radius: 15px 15px;
+  margin-left: 300px;
+  align-self: top left;
+
+  }
+   
+   p {
+    background-color: white;
+    padding: 20px;
+    margin-top: 0%;
+
+    font-family:'Permanent Marker' ;
+   }
+   body{
+    background-image: url(https://i.pinimg.com/originals/f3/83/ee/f383ee4a8941896c2efaadfef75bfad6.jpg);
+    font-family:'Permanent Marker' ;
+   }
+   h2{
+    background-color: white;
+     text-align: center;
+     border-bottom: 3px solid;
+  }
+header{
+  text-align: center;
+}
+.section3{
+  background-color: white;
+  
+
+}
+   .box1{
+    display:flex;
+    flex-direction:column;
+    flex-basis: 15%; 
+    background-color: white;
+    height: 100px;
+    min-height:100px; 
+    width: 300px;
+   }
+
+.section1{
+flex:1;
+margin:auto;
+}
+
+.section2{
+flex:1;
+}
+ 
